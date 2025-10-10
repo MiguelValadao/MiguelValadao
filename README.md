@@ -1,5 +1,6 @@
-## Olá! 
+## Olá! Hello!
 Meu nome é Miguel! Sou um densenvolvedor com foco em backend e mobile.
+My name is Miguel! I'm a software developer focusing on backend and mobile development
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,py,visualstudio,vscode)](https://skillicons.dev)
 <!--
