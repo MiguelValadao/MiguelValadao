@@ -1,5 +1,6 @@
 ## Olá! 
-Meu nome é Miguel! Sou um densenvolvedor com foco em desenvolvimento backend e mobile.
+Meu nome é Miguel! Sou um densenvolvedor com foco em backend e mobile.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,git,py,visualstudio,vscode)](https://skillicons.dev)
 <!--
 **MiguelValadao/MiguelValadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
