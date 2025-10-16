@@ -43,9 +43,9 @@ A personal portfolio project designed to emulate a terminal interface, reflectin
 
 ## Links
 
-- [Linkedin: ](https://br.linkedin.com/in/miguel-teixeira-valad%C3%A3o-973578310/pt)
+- [Linkedin](https://br.linkedin.com/in/miguel-teixeira-valad%C3%A3o-973578310/pt)
 - Portfólio / Portfolio: _em breve / coming soon_
-- Email: miguelteix2008@gmail.com // omigueltv2008@gmail.com
+- Email: miguelteix2008@gmail.com | omigueltv2008@gmail.com
 
 ---
 
