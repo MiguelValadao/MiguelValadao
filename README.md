@@ -61,3 +61,14 @@ Um projeto de portfólio pessoal inspirado em um terminal, refletindo tanto minh
 
 ###
 
+<img src="https://raw.githubusercontent.com/MiguelValadao/MiguelValadao/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiguelValadao.MiguelValadao&"  />
+</div>
+
+###
+###
+
