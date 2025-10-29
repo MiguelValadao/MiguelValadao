@@ -26,7 +26,7 @@ Um projeto de portfólio pessoal inspirado em um terminal, refletindo tanto minh
 
 - **Linguagens:** JavaScript, Python, HTML, CSS, MySQL, C#, Java & TypeScript (aprendendo)
 - **Ferramentas:** Visual Studio Code, Git, GitHub, Linha de Comando/Command Line
-- **Áreas de Interesse:** Desenvolvimento full-stack, frameworks (React, Node.js, Bootstrap, Django e .NET), programação server-side
+- **Áreas de Interesse:** Desenvolvimento full-stack, frameworks (React, Bootstrap e .NET), programação server-side
 
 ---
 
