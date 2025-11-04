@@ -33,7 +33,7 @@ Um projeto de portfólio pessoal inspirado em um terminal, refletindo tanto minh
 ## Links
 
 - [Linkedin](https://br.linkedin.com/in/miguel-teixeira-valad%C3%A3o-973578310/pt)
-- Portfolio: _em breve / coming soon_
+- [ Portfolio:](https://miguelvaladao.github.io/Portfolio/)
 - Email: miguelteix2008@gmail.com | omigueltv2008@gmail.com
 
 ---
