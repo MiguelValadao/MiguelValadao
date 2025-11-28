@@ -25,8 +25,8 @@ Um projeto de portfólio pessoal inspirado em um terminal, refletindo tanto minh
 ## Competências Técnicas 
 
 - **Linguagens:** JavaScript, Python, HTML, CSS, MySQL, C#, Java & TypeScript (aprendendo)
-- **Ferramentas:** Visual Studio Code, Git, GitHub, Linha de Comando/Command Line
-- **Áreas de Interesse:** Desenvolvimento full-stack, frameworks (React, Bootstrap e .NET), programação server-side
+- **Ferramentas:** Visual Studio Code, Git, GitHub, Linha de Comando/Command Line, Visual Studio
+- **Áreas de Interesse:** Desenvolvimento full-stack com foco em back-end, frameworks (React, Bootstrap e ASP.NET core), programação server-side
 
 ---
 
