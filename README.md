@@ -1,6 +1,6 @@
 # Miguel Valadão
 
-Estudante do Ensino Médio & Engenheiro de Software  
+Senior Ensino Médio, Dev Back-end & Mobile
 Atualmente em busca de oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento de Software
 
 ---
@@ -15,26 +15,18 @@ Sou um estudante do ensino médio motivado, com experiência prática em engenha
 
 ---
 
-## Projeto em Destaque
-
-**Terminal Portfolio**  
-Um projeto de portfólio pessoal inspirado em um terminal, refletindo tanto minhas habilidades técnicas quanto minha criatividade. Ainda estou adicionando mais comandos para o terminal. 
-
----
-
 ## Competências Técnicas 
 
-- **Linguagens:** JavaScript, Python, HTML, CSS, MySQL, C#, Java & TypeScript (aprendendo)
-- **Ferramentas:** Visual Studio Code, Git, GitHub, Linha de Comando/Command Line, Visual Studio
-- **Áreas de Interesse:** Desenvolvimento full-stack com foco em back-end, frameworks (React, Bootstrap e ASP.NET core), programação server-side
+- **Linguagens:** JavaScript, Python, MySQL/PostgreSQL, C#, Java, TypeScript, Dart/Flutter, Swift & Kotlin (aprendendo)
+- **Ferramentas:** Visual Studio Code, Git, GitHub, Command Line, Visual Studio
+- **Áreas de Interesse:** Desenvolvimento full-stack com foco em back-end e Mobile
 
 ---
 
 ## Links
 
 - [Linkedin](https://br.linkedin.com/in/miguel-teixeira-valad%C3%A3o-973578310/pt)
-- [ Portfolio:](https://miguelvaladao.github.io/Portfolio/)
-- Email: miguelteix2008@gmail.com | omigueltv2008@gmail.com
+- Email: migueltvaladao@gmail.com
 
 ---
 
