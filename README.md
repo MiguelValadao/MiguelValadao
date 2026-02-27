@@ -1,6 +1,6 @@
 # Miguel Valadão
 
-Senior Ensino Médio, Dev Back-end & Mobile
+Ultimo ano Ensino Médio, Dev Back-end & Mobile
 Atualmente em busca de oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento de Software
 
 ---
